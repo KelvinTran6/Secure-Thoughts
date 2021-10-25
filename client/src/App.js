@@ -20,7 +20,7 @@ const App = () => {
         <div>
             <Container maxwidth="lg">
             <AppBar className = {classes.appBar} position="static" color="inherit">
-            <Typography className = {classes.heading} variant="h2" align="center"> Online Church </Typography>
+            <Typography className = {classes.heading} variant="h2" align="center"> Secure Thought </Typography>
             </AppBar>
             <Grow in>
                 <Container>
